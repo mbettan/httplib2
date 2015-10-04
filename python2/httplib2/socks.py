@@ -41,7 +41,7 @@ mainly to merge bug fixes found in Sourceforge
 """
 
 import base64
-import socket
+from socket import socket
 import struct
 import sys
 
